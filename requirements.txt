@@ -1,13 +1,19 @@
 easyocr==1.7.1
+
 torch==2.2.0
 torchvision==0.17.0
 torchaudio==2.2.0
 
 pymupdf==1.24.10
-pillow==10.3.0
+pillow==9.5.0
+
 numpy>=1.24,<2.0
 python-multipart
+
 fastapi==0.95.2
 uvicorn==0.22.0
+
 streamlit==1.24.1
 requests==2.31.0
+dotenv
+groq
